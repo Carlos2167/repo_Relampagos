@@ -1,10 +1,12 @@
 # repo_Relampagos
 
 ## Integrantes
-- Nombre 1 - Líder
-- Nombre 2 - Diseñador
-- Nombre 3 - Programador
-- Nombre 4 - Constructor
+- Maria Jose Perez - Líder
+- Luis Felipe Cinfuentes - Diseñador
+- Carlos Aponte - Diseñador
+- Daniel Perez - Programador 
+- Juan Huertas - Programador
+- Angie Rodriguez - Constructor
 
 ## Nombre del proyecto
 Descripción (funcionamiento y materiales)
